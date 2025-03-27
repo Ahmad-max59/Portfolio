@@ -1,0 +1,21 @@
+.banière{font-family: Arial, Helvetica, sans-serif; background-image:url(../Images/84248.png) ; color:burlywood;
+          text-align: center; padding: 100px; text-decoration: underline;}
+.fond{background: rgb(69, 62, 109);
+    background: linear-gradient(168deg, rgba(69, 62, 109, 1) 0%, rgba(162, 86, 118, 1) 100%);}
+.navigation{display: block;width: 100%;text-align: center;background-color: rgb(173, 178, 189);padding: 10px 0px 10px 0px;}
+.navigation li{list-style: none;display: inline-block;margin: 10px 3px 10px 3px;}
+.navigation li a{text-decoration: none;font-size: 1.3rem; color: rgb(116, 70, 15);font-weight: 600;padding: 1rem 2rem 1rem 2rem;border-radius: 0.9rem; background-color: aliceblue;}
+.image{border: 2px solid;color: black; box-shadow: 10px 5px 10px 5px; color: rgb(4, 15, 50);}
+*a:active{color: rgb(4, 15, 50);}
+.moi{font-family:Arial, Helvetica, sans-serif; font-weight: 100; color: rgb(0, 22, 22); text-align:justify;}
+.softs-skills{display: flex;justify-content:space-between;gap: 1rem;padding: auto; }
+.softs-skill{border:#32e solid 1px ;width: 30%; flex-direction: column;align-items: center; text-align: justify;margin-inline-start: auto; margin-inline-end: auto;box-shadow: 0 4px 8px}
+.softs-skill-image{height: 200px;}
+.propos{background: rgb(63, 106, 142);
+    background: linear-gradient(41deg, rgba(63, 106, 142, 0.4374124649859944) 7%, rgba(23, 88, 143, 1) 18%, rgba(63, 106, 142, 0.4374124649859944) 18%, rgba(63, 93, 135, 1) 50%, rgba(65, 157, 131, 0.7203256302521008) 88%, rgba(68, 82, 111, 0.7203256302521008) 94%, rgba(116, 115, 191, 0.7203256302521008) 94%);background-repeat: no-repeat;}
+.Interet{font-family:Verdana, Geneva, Tahoma, sans-serif ;text-align:justify;}
+.projet{display: flex; justify-content:space-around ; gap: 1rem;padding: auto;}
+.projet1{border:rgb(13, 81, 53) solid 1px ;width: 30%; flex-direction: column;align-items: center; text-align: justify; margin-inline-start:2px; margin-inline-end:2px;box-shadow: 0 5px 9px;background-color: rgba(116, 115, 191, 0.7203256302521008);}
+.projet-img{height: 200px;}
+.all{background-image:url(Image/fed9586eef4f3f759eb75c6a28c383aa.jpg) ;background-position: center;background-attachment: fixed;background-size: cover;}
+.prés{border: 2px solid;width: 30%;box-shadow: 2px 6px 12px;color: rgba(128, 0, 0, 0.451);}
